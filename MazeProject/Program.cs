@@ -19,17 +19,27 @@
             ////Prints 'This is room Room1'
             //room2.getConnectedRoom('W').print();
 
-            // Exercise 4-3
-            Maze maz = new Maze();
-            if (maz.getStartRoom().getConnectedRoom('N').
-            getConnectedRoom('E').getConnectedRoom('E') == maz.getWinningRoom())
-            {
-                Console.WriteLine("The maze seems to be set up correctly!");
-            }
-            else
-            {
-                Console.WriteLine("There seems to be something wrong with the maze!");
-            }
+            //// Exercise 4-3
+            //Maze maz = new Maze();
+            //if (maz.getStartRoom().getConnectedRoom('N').
+            //getConnectedRoom('E').getConnectedRoom('E') == maz.getWinningRoom())
+            //{
+            //    Console.WriteLine("The maze seems to be set up correctly!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("There seems to be something wrong with the maze!");
+            //}
+
+            //// Exercise 4-4
+            //Maze maz = new Maze();
+            //Player pla = new Player(maz.getStartRoom());
+            //pla.move('N');
+            //pla.move('E');
+            //pla.move('E');
+            //Console.WriteLine("The player is now in {0}", pla.getCurrentRoom().getName());
+
+
 
         }
     }

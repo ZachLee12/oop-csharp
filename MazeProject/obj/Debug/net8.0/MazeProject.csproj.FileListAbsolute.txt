@@ -12,3 +12,4 @@ C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\r
 C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.pdb
 C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\ref\MazeProject.dll
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.sourcelink.json

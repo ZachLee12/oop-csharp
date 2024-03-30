@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7778f1c01eef010cf4ec478373b96460b35fefbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
