@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\bin\Debug\net8.0\MazeProject.exe
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\bin\Debug\net8.0\MazeProject.deps.json
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\bin\Debug\net8.0\MazeProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\bin\Debug\net8.0\MazeProject.dll
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\bin\Debug\net8.0\MazeProject.pdb
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.dll
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\refint\MazeProject.dll
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.pdb
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\MazeProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\HTWG KONSTANZ\MazeProject\MazeProject\obj\Debug\net8.0\ref\MazeProject.dll
